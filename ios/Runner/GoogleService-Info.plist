@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>348285983055-o6jr216n7hs83op5g470e4g73odkrjbq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.348285983055-o6jr216n7hs83op5g470e4g73odkrjbq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDtUMg_oGlH8iq722p9cnczGtBWgr976mY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>348285983055</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.docSaverApp</string>
+	<key>PROJECT_ID</key>
+	<string>docsaverapp-b65e3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>docsaverapp-b65e3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:348285983055:ios:116d32f6316cfda4c54d3a</string>
+</dict>
+</plist>
